@@ -32,7 +32,8 @@
     "lodash": "2.4.1",
     "mssql": "~1.0.2",
     "underscore": "~1.5.2",
-    "underscore.string": "~2.3.3"
+    "underscore.string": "~2.3.3",
+    "validator": "3.22.2"
   },
   "devDependencies": {
     "waterline-adapter-tests": "~0.10.0",
